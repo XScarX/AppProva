@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova Bonato</string>
+    <string name="busca_cliente">Nome do Continente</string>
+    <string name="botao_busca"> Buscar</string>
+</resources>
